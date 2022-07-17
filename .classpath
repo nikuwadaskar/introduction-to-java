@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-17">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="Recursion/" kind="src" path="basic"/>
+	<classpathentry kind="src" path="OOPS"/>
+	<classpathentry kind="src" path="LinkedLists"/>
+	<classpathentry kind="src" path="PRACTICE"/>
+	<classpathentry kind="src" path="BinaryTree"/>
+	<classpathentry kind="src" path="Recursion"/>
+	<classpathentry kind="src" path="BackTracking"/>
+	<classpathentry kind="src" path="DynamicProgramming"/>
+	<classpathentry kind="src" path="HashMap"/>
+	<classpathentry kind="src" path="Priority Queues"/>
+	<classpathentry kind="src" path="Skill Test"/>
+	<classpathentry kind="src" path="TriesandHuffmanCoding"/>
+	<classpathentry kind="src" path="Graphs"/>
+	<classpathentry kind="src" path="OOPS4"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
